@@ -1,5 +1,6 @@
 imgs/
 texts/
+traineddata/
 .DS_Store
 *.swp
 
